@@ -1,7 +1,6 @@
-# camping
+# Camping
 
-A new Flutter project.
-
+This flutter project was based/taken from the [Google Layout Tutorial](https://docs.flutter.dev/development/ui/layout/tutorial)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
